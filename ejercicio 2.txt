@@ -1,0 +1,4 @@
+* faltan los cochetes en la defnicion del arreglo
+* Se intenta asignar  valo e tp double en un arreglo de tipo entero
+* Se intenta asignar un valor a una posicion del arregl que no existe
+* los parentesis para obtener el largo del arreglo estan de mas
